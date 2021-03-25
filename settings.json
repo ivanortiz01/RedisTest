@@ -1,0 +1,5 @@
+{
+    "ConnectionsStrings" : {
+        "Redis": "localhost:6379,allowAdmin=true"
+    }
+}
